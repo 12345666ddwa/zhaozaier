@@ -1,0 +1,74 @@
+[
+  {
+    "filename": "hero_01.jpg",
+    "category": "Hero",
+    "description": "Vietnamese-style beef noodle soup (Pho) with fresh herbs and chili — warm, aromatic close-up",
+    "author": "Kirill Tonkikh",
+    "author_username": "@photophotostock",
+    "unsplash_url": "https://unsplash.com/photos/a-bowl-of-noodle-soup-with-chopsticks-on-the-side-NFQi_2HUNRI",
+    "size_kb": 117.5
+  },
+  {
+    "filename": "hero_02.jpg",
+    "category": "Hero",
+    "description": "Chinese-style noodle soup with chopsticks on a rustic wooden table setting",
+    "author": "Dan DeAlmeida",
+    "author_username": "@ddealmeida",
+    "unsplash_url": "https://unsplash.com/photos/red-liquid-in-white-ceramic-bowl-Qhqj0tcXkbg",
+    "size_kb": 118.7
+  },
+  {
+    "filename": "dish_01.jpg",
+    "category": "Dish",
+    "description": "Sweet and sour chicken with bell peppers in a soy-ginger glaze",
+    "author": "Israel Albornoz",
+    "author_username": "@israelalbornoz",
+    "unsplash_url": "https://unsplash.com/photos/cooked-food-on-white-ceramic-plate-xxxxx",
+    "size_kb": 173.2
+  },
+  {
+    "filename": "dish_02.jpg",
+    "category": "Dish",
+    "description": "Chicken with black bean sauce, peppers, and onions — Indo-Chinese fusion",
+    "author": "Deepak Surya",
+    "author_username": "@deepaksurya",
+    "unsplash_url": "https://unsplash.com/photos/chicken-with-black-bean-sauce-xxxxx",
+    "size_kb": 97.6
+  },
+  {
+    "filename": "dish_03.jpg",
+    "category": "Dish",
+    "description": "Kung Bao Chicken (宫保鸡丁) in a traditional stone bowl with cashews and dried chili",
+    "author": "Sxanghai Joe",
+    "author_username": "@sxanghai",
+    "unsplash_url": "https://unsplash.com/photos/kung-bao-chicken-xxxxx",
+    "size_kb": 206.2
+  },
+  {
+    "filename": "dish_04.jpg",
+    "category": "Dish",
+    "description": "Freshly steamed shumai dumplings in a traditional bamboo steamer basket",
+    "author": "SJ 📸",
+    "author_username": "@uxsj_ph",
+    "unsplash_url": "https://unsplash.com/photos/dumplings-on-steamer-GZe_M6TUJ_k",
+    "size_kb": 90.6
+  },
+  {
+    "filename": "interior_01.jpg",
+    "category": "Interior",
+    "description": "Traditional Chinese hotpot restaurant interior with warm glowing red lanterns and intricate wooden details",
+    "author": "北美餐饮通",
+    "author_username": "@uscanyin",
+    "unsplash_url": "https://unsplash.com/photos/traditional-chinese-restaurant-interior-with-red-lanterns-Xkf5zhvBwfY",
+    "size_kb": 198.5
+  },
+  {
+    "filename": "interior_02.jpg",
+    "category": "Interior",
+    "description": "Cozy Chinese restaurant interior with orange lanterns, wooden décor, and elegant seating",
+    "author": "北美餐饮通",
+    "author_username": "@uscanyin",
+    "unsplash_url": "https://unsplash.com/photos/empty-restaurant-interior-with-traditional-chinese-decor-hepyY3nHyXg",
+    "size_kb": 168.7
+  }
+]
